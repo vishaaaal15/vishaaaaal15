@@ -2,68 +2,107 @@
 
 ## 📊 Data Analyst
 
-I am a Data Analyst focused on transforming raw business data into meaningful insights that support strategic decision-making in finance, sales, and operations.
+I help businesses convert raw data into actionable insights that improve revenue, efficiency, and decision-making.
 
 ---
 
 ## 🎯 What I Do
 
-- Analyze business datasets to identify trends and patterns  
-- Build interactive dashboards for decision-making  
-- Perform data cleaning, transformation, and analysis  
-- Generate KPIs and business insights for stakeholders  
+- Analyze business and financial datasets  
+- Build KPI-driven dashboards for decision-making  
+- Identify trends, risks, and performance gaps  
+- Translate data into business insights  
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages & Tools:**
-- SQL (Joins, CTEs, Window Functions, Aggregations)
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Power BI (Dashboards, Data Modeling, DAX)
-- Excel (Advanced formulas, Pivot Tables)
+- SQL: Joins, CTEs, Window Functions, Aggregations  
+- Python: Pandas, NumPy, Data Visualization  
+- Power BI: Dashboards, DAX, Data Modeling  
+- Excel: Pivot Tables, Data Cleaning  
 
 ---
 
-## 📁 Featured Projects
+## 📁 Featured Projects (WITH BUSINESS IMPACT)
+
+---
 
 ### 📈 Stock Market Analysis Dashboard
-- Analyzed stock price trends, volatility, and performance metrics  
-- Built interactive Power BI dashboard for market insights  
-- Identified key financial patterns for decision-making  
+
+**📊 Data Used:**
+- Historical stock prices (Open, Close, High, Low, Volume)
+- Daily trading data over time period
+
+**🔍 Analysis Performed:**
+- Trend analysis of stock price movement  
+- Volatility measurement across time  
+- Moving averages for market behavior  
+
+**📊 Insights:**
+- Identified high volatility periods impacting trading decisions  
+- Detected consistent upward/downward price trends  
+- Highlighted risk zones for investors  
+
+**💼 Business Impact:**
+- Helps investors reduce risk by avoiding high volatility periods  
+- Supports better entry/exit timing decisions  
+- Improves investment strategy planning  
 
 ---
 
 ### 🏨 Hospitality Revenue Analysis
-- Evaluated revenue, occupancy rate, and RevPAR KPIs  
-- Identified underperforming properties and business gaps  
-- Delivered insights to improve hotel performance  
+
+**📊 Data Used:**
+- Hotel bookings dataset (occupancy, revenue, room types)
+
+**🔍 Analysis Performed:**
+- Revenue performance by property  
+- Occupancy rate and RevPAR calculation  
+- Booking trend analysis  
+
+**📊 Insights:**
+- Identified underperforming hotels with low occupancy  
+- Found peak booking periods driving revenue  
+- Detected pricing inefficiencies across properties  
+
+**💼 Business Impact:**
+- Helps improve hotel pricing strategy  
+- Increases occupancy through targeted actions  
+- Supports revenue optimization decisions  
 
 ---
 
 ### 📊 Sales & Customer Behavior Analysis
-- Studied customer purchasing patterns and segmentation  
-- Identified top-performing regions and revenue drivers  
-- Built dashboards for business performance tracking  
 
----
+**📊 Data Used:**
+- Customer purchase history  
+- Sales transactions dataset  
 
-## 📊 Focus Areas
+**🔍 Analysis Performed:**
+- Customer segmentation analysis  
+- Revenue contribution by region and product  
+- Purchase behavior trends  
 
-- Financial & Market Data Analysis  
-- Business Intelligence & Reporting  
-- Customer Analytics  
-- KPI Dashboard Development  
+**📊 Insights:**
+- Identified top 20% customers generating majority revenue  
+- Found low-performing regions impacting sales  
+- Discovered product demand patterns  
+
+**💼 Business Impact:**
+- Enables targeted marketing campaigns  
+- Improves customer retention strategy  
+- Increases revenue through focused sales efforts  
 
 ---
 
 ## 🚀 Career Objective
 
-To contribute as a Data Analyst in a leading organization like American Express, JPMorgan Chase, or Barclays by leveraging data-driven insights to solve real business problems.
+To work as a Data Analyst in a leading organization like American Express, JPMorgan Chase, or Barclays, contributing to data-driven financial and business decision-making.
 
 ---
 
 ## 📬 Connect With Me
 
-- GitHub: https://github.com/vishaaaal15  
-- LinkedIn:https://www.linkedin.com/in/vishal-singhdataanalyst
+GitHub: https://github.com/vishaaaal15  
+LinkedIn:https://www.linkedin.com/in/vishal-singhdataanalyst/
