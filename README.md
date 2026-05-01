@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Vishal Singh
+#  Hi, I'm Vishal Singh
 
-## 📊 Data Analyst
+##  Data Analyst
 
 I help businesses make faster and better decisions by turning raw data into actionable insights that improve revenue, operations, and performance.
 
 ---
 
-## 🎯 Impact I Create
+##  Impact I Create
 
 - Improve decision-making using KPI dashboards  
 - Identify revenue leakages and business gaps  
@@ -29,14 +29,14 @@ I help businesses make faster and better decisions by turning raw data into acti
 - Identified high-volatility periods impacting trading decisions  
 - Found consistent price movement patterns for selected stocks  
 
-**💼 Business Impact:**
+** Business Impact:**
 - Helps reduce investment risk by identifying unstable market periods  
 - Supports better entry/exit timing for investors  
 - Improves decision accuracy in trading strategies  
 
 ---
 
-### 🏨 Hospitality Performance Analysis
+###  Hospitality Performance Analysis
 
 **📊 Data:** Hotel bookings, revenue, occupancy dataset  
 
@@ -46,14 +46,14 @@ I help businesses make faster and better decisions by turning raw data into acti
 - Found underperforming properties with low occupancy  
 - Identified peak booking seasons driving revenue spikes  
 
-**💼 Business Impact:**
+** Business Impact:**
 - Improves pricing strategy for hotels  
 - Increases occupancy through targeted operational decisions  
 - Helps maximize overall revenue performance  
 
 ---
 
-### 📊 Sales & Customer Analytics
+###  Sales & Customer Analytics
 
 **📊 Data:** Customer purchase & sales transaction data  
 
@@ -63,13 +63,13 @@ I help businesses make faster and better decisions by turning raw data into acti
 - Identified top 20% customers generating majority revenue  
 - Found low-performing regions affecting sales growth  
 
-**💼 Business Impact:**
+** Business Impact:**
 - Enables targeted marketing campaigns  
 - Improves customer retention strategy  
 - Increases revenue through focused strategy execution  
 
 ---
 
-## 📌 Career Goal
+##  Career Goal
 
 To work as a Data Analyst in a top financial organization like American Express, JPMorgan Chase, or Barclays, contributing to high-impact data-driven decisions.
