@@ -1,6 +1,6 @@
 # Hi, I'm Vishal Singh 👋
 
-## Data Analyst | Business Intelligence | SQL | Power BI | Excel | Python
+## Data Analyst | Business Intelligence | SQL | Power BI | Excel | Python | Tableau
 
 I am a results-driven aspiring Data Analyst with strong expertise in transforming raw data into strategic business insights. I specialize in building impactful dashboards, solving business problems, and supporting data-driven decision-making using analytics.
 
