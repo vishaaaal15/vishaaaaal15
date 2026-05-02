@@ -1,75 +1,99 @@
-#  Hi, I'm Vishal Singh
+# Hi, I'm Vishal Singh 👋
 
-##  Data Analyst
+## Data Analyst | Business Intelligence | SQL | Power BI | Excel | Python
 
-I help businesses make faster and better decisions by turning raw data into actionable insights that improve revenue, operations, and performance.
+I am a results-driven aspiring Data Analyst with strong expertise in transforming raw data into strategic business insights. I specialize in building impactful dashboards, solving business problems, and supporting data-driven decision-making using analytics.
 
----
+My focus is on creating real-world business solutions through:
 
-##  Impact I Create
+* Data Analysis
+* Business Intelligence
+* Dashboard Development
+* KPI Reporting
+* Data Visualization
+* SQL Query Optimization
+* Business Performance Tracking
+* Revenue Analysis
+* Forecasting & Trend Analysis
 
-- Improve decision-making using KPI dashboards  
-- Identify revenue leakages and business gaps  
-- Analyze financial and operational data for insights  
-- Build automated reporting dashboards  
+I am actively seeking opportunities across:
 
----
-
-## 📁 Featured Projects (Business Case Studies)
-
----
-
-### 📈 Stock Market Analysis Dashboard
-
-**📊 Data:** Historical stock price & volume data  
-
-**🔍 Analysis:** Trend analysis, volatility tracking, moving averages  
-
-**📊 Insights:**
-- Identified high-volatility periods impacting trading decisions  
-- Found consistent price movement patterns for selected stocks  
-
-** Business Impact:**
-- Helps reduce investment risk by identifying unstable market periods  
-- Supports better entry/exit timing for investors  
-- Improves decision accuracy in trading strategies  
+* Startups
+* Mid-size Companies
+* Product-Based Companies
+* Big 4 Firms
+* Consulting Firms
+* MNCs
 
 ---
 
-###  Hospitality Performance Analysis
+## Technical Skills
 
-**📊 Data:** Hotel bookings, revenue, occupancy dataset  
+### Analytics & BI
 
-**🔍 Analysis:** RevPAR, occupancy rate, revenue trends  
+* Power BI
+* Tableau
+* Microsoft Excel
+* Google Sheets
+* KPI Dashboarding
+* Business Reporting
+* Data Visualization
 
-**📊 Insights:**
-- Found underperforming properties with low occupancy  
-- Identified peak booking seasons driving revenue spikes  
+### Database & Querying
 
-** Business Impact:**
-- Improves pricing strategy for hotels  
-- Increases occupancy through targeted operational decisions  
-- Helps maximize overall revenue performance  
+* SQL
+* MySQL
+* PostgreSQL
+* Data Cleaning
+* Data Validation
+* Data Modeling
+
+### Programming
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Exploratory Data Analysis (EDA)
+
+### Business & Strategy
+
+* Business Analysis
+* Requirement Gathering
+* Stakeholder Reporting
+* Problem Solving
+* Decision-Making Support
+* Performance Optimization
 
 ---
 
-###  Sales & Customer Analytics
+## Featured Projects
 
-**📊 Data:** Customer purchase & sales transaction data  
+### Hospitality Management Analysis Dashboard
 
-**🔍 Analysis:** Customer segmentation, revenue trends  
+Revenue optimization, booking trends, occupancy insights, customer segmentation, and hotel performance tracking dashboard.
 
-**📊 Insights:**
-- Identified top 20% customers generating majority revenue  
-- Found low-performing regions affecting sales growth  
+### Stock Market Analysis Dashboard
 
-** Business Impact:**
-- Enables targeted marketing campaigns  
-- Improves customer retention strategy  
-- Increases revenue through focused strategy execution  
+Market trend analysis, stock performance insights, investment tracking, financial KPIs, and risk-performance dashboard.
+
+### E-Commerce Sales Dashboard Analysis
+
+Customer behavior analysis, sales trends, product performance, revenue optimization, and business growth insights dashboard.
 
 ---
 
-##  Career Goal
+## Career Objective
 
-To work as a Data Analyst in a top financial organization like American Express, JPMorgan Chase, or Barclays, contributing to high-impact data-driven decisions.
+To contribute as a high-impact Data Analyst by helping organizations improve decision-making, optimize operations, and drive business growth using data-backed strategies.
+
+---
+
+## Let's Connect
+
+LinkedIn: (Add Your LinkedIn Link)
+
+GitHub: https://github.com/vishaaaal15
+
+Email: (Add Your Professional Email)
