@@ -92,8 +92,8 @@ To contribute as a high-impact Data Analyst by helping organizations improve dec
 
 ## Let's Connect
 
-LinkedIn: (Add Your LinkedIn Link)
+LinkedIn:https://www.linkedin.com/in/vishal-singhdataanalyst
 
 GitHub: https://github.com/vishaaaal15
 
-Email: (Add Your Professional Email)
+Email: vshalsngh17@gmail.com
