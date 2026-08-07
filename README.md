@@ -44,5 +44,5 @@ Strengthening predictive modeling (churn, fraud risk) on top of existing BI dash
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/vishal-singhdataanalyst](http://www.linkedin.com/in/vishal-singh-analytics)
+- LinkedIn: [linkedin.com/in/vishal-singh-analytics](http://www.linkedin.com/in/vishal-singh-analytics)
 - GitHub: [github.com/vishaaaal15](https://github.com/vishaaaal15)
